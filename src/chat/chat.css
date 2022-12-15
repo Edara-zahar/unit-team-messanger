@@ -1,0 +1,60 @@
+html {
+    background-color: #D9D9D9;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    overflow: hidden;
+}
+.container{
+    height: 1028px;
+    width: 1000px;
+}
+.Header {
+    height: 60px;
+    width: 100%;
+    background-color: #25181F;
+    position: fixed;
+}
+.Header_text {
+    text-align: center;
+    padding-top: 15px;
+    font-weight: bold;
+    font-size: 20pt;
+}
+.ent{
+    padding-left: 150px;
+    margin-top: 950px;
+}
+input {
+    height: 27px;
+    width: 1440px;
+    margin-left: -90px;
+    font-size: 14pt;
+    background: transparent;
+    background-color: #25181F;
+    height: 60px;
+    width: 100%;
+    color: white;
+}
+.txt{
+    margin-top: -940px;
+    padding-left: 19px;
+    padding-right: 10px;
+    font-size: 14pt;
+    background-color: #25181F;
+    color: white;
+    height: max-content;
+    width: max-content;
+    border-radius: 80px;
+    margin-left: 100px;
+}
+.text__msg{
+    padding: 10px;
+}
+.btn{
+    height: 60px;
+    background-color: #25181F;
+    color: white;
+    width: 90px;
+    padding-top: 2px;
+    font-size: 12pt;
+}
